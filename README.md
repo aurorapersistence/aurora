@@ -1,0 +1,2 @@
+# aurora
+Java persistence framework
